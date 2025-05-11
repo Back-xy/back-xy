@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hello%2C+I'm+Bawar;Software+Engineer+%7C+Full+Stack+Developer)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1024&height=100&lines=Hello%2C+I'm+Bawar;Software+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
+
 <!--
 **Back-xy/back-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
